@@ -4,7 +4,7 @@ Este repositório contém um programa em C que implementa um simples sistema de 
 
 # 📌 Tecnologias Utilizadas
 
-
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 # 🔹 Funcionalidades
 
@@ -63,4 +63,4 @@ Desenvolvido por:
 
 * [Victória Machado](https://github.com/VickMM)
 
-*[Maria Luiza](https://github.com/i-malur)
+* [Maria Luiza](https://github.com/i-malur)
